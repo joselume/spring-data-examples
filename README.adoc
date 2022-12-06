@@ -6,7 +6,13 @@ Amend (ticket_branch)
 
 Amend 2 (ticket_branch)
 
+Change 4 (ticket_branch)
+
+Change 5 (ticket_branch)
+
 image:https://travis-ci.org/spring-projects/spring-data-examples.svg?branch=main[Build Status,link=https://travis-ci.org/spring-projects/spring-data-examples]
+
+Change 6 (ticket_branch)
 
 This repository contains example projects for the different Spring Data modules to showcase the API and how to use the features provided by the modules.
 
