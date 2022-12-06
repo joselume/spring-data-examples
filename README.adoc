@@ -1,4 +1,4 @@
-= Spring Data Examples
+= Spring Data Examples (Little change)
 
 image:https://travis-ci.org/spring-projects/spring-data-examples.svg?branch=main[Build Status,link=https://travis-ci.org/spring-projects/spring-data-examples]
 
